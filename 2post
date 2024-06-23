@@ -35,12 +35,12 @@
             </div>
         </nav>
         <!-- Page Header-->
-        <header class="masthead" style="background-image: "goodeh.jpg">
+        <header class="masthead" style="background-image: "polyconic.jpg">
             <div class="container position-relative px-4 px-lg-5">
                 <div class="row gx-4 gx-lg-5 justify-content-center">
                     <div class="col-md-10 col-lg-8 col-xl-7">
                         <div class="post-heading">
-                            <h1>Percentage Occupied Housing by Census Tracts in Miami</h1>
+                            <h1>2020 Election Map: Percentage of Democratic and Republican Votes by PA Counties</h1>
                             <span class="meta">
                                 Posted by
                                 <a href="#!">Kayla Roumie</a>
@@ -56,8 +56,8 @@
             <div class="container px-4 px-lg-5">
                 <div class="row gx-4 gx-lg-5 justify-content-center">
                     <div class="col-md-10 col-lg-8 col-xl-7">
-                        <h2 class="section-heading">Percentage of Occupied Housing by Census Tracts in Miami</h2>
-                        <img src="percentoccupiedhousing.jpg" alt="% Occupied Housing in Miami" width="900" height="600">                        
+                        <h2 class="section-heading">2020 Election Map: Percentage of Democratic and Republican Votes by PA Counties </h2>
+                        <img src="mercator.jpg" alt="% Occupied Housing in Miami" width="900" height="600">                        
                         <h2 class="section-heading">Narrative: How I solved the problem</h2>
                         <p>beep</p>
                         <h2 class="section-heading">Tools</h2>
